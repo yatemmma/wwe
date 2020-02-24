@@ -1,0 +1,26 @@
+{
+    "king": {
+        "name": "Jerry Lawler",
+        "image": "king.png"
+    },
+    "jr": {
+        "name": "Jim Ross",
+        "image": "jr.png"
+    },
+    "vince": {
+        "name": "Vince McMahon",
+        "image": "vince.png"
+    },
+    "shamrock": {
+        "name": "Ken Shamrock"
+    },
+    "vader": {
+        "name": "VADER"
+    },
+    "paul_bearer": {
+        "name": "Paul Bearer"
+    },
+    "bulldog": {
+        "name": "The British Bulldog"
+    }
+}
