@@ -7,7 +7,7 @@ const Match = (props) => {
 
   // const matchText = props.match.match.replace(g, <Superstar identifier="x">)
   return (
-    <div style={{margin:'4%', wordBreak:'break-all'}}>
+    <div style={{margin:'4%'}}>
       <h3 style={{borderBottom: '1px solid'}}>{props.number}. {props.match.title}</h3>
       <p>
         {matchWords.map((word) => {

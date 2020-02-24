@@ -7,7 +7,7 @@ import superstars from '../data/superstars.json'
 
 const layoutStyle = {
   margin: '2%',
-  padding: '2%',
+  padding: '1% 2%',
   border: '1px solid #DDD'
 }
 
@@ -36,20 +36,20 @@ export default function Index() {
             <h2 style={{cursor:'pointer'}} onClick={() => toggleNextElement(eventKey)}>
               {event.title}
 
-              
+              <div>
                 {Object.keys(stars).map((superstar) => {
                   return (<SuperstarIcon identifier={superstar} superstars={superstars}/>)
                 })}
-              
+              </div>
             </h2>
             <div id={eventKey} hidden>
               <p>{event.place}</p>
-              <p>commentary: 
+              <p>
                 {(event.ringside || []).map((superstar: any) => {
                   return (
                     <Superstar identifier={superstar} superstars={superstars} />
                   )
-                })}
+                })} (commentary)
               </p>
               {(event.matches || []).map((match, i) => {
                 return (

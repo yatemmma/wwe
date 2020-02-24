@@ -85,10 +85,63 @@
     "dude_love": {
         "name": "Dude Love"
     },
+    "mankind": {
+        "name": "Mankind"
+    },
     "undertaker": {
         "name": "The Undertaker"
     },
     "pillman": {
         "name": "Brian Pillman"
+    },
+    "hawk": {
+        "name": "Road Warrior Hawk"
+    },
+    "animal": {
+        "name": "Road Warrior Animal"
+    },
+    "savio": {
+        "name": "Savio Vega"
+    },
+    "miguel": {
+        "name": "Miguel Perez"
+    },
+    "commandant": {
+        "name": "The Commandant"
+    },
+    "recon": {
+        "name": "Recon"
+    },
+    "sniper": {
+        "name": "Sniper"
+    },
+    "interrogator": {
+        "name": "The Interrogator"
+    },
+    "jasse_james": {
+        "name": "Jesse James",
+        "memo": "ロードドッグ"
+    },
+    "flash_funk": {
+        "name": "Flash Funk"
+    },
+    "bob_holly": {
+        "name": "Bob Holly"
+    },
+    "crush": {
+        "name": "Crush"
+    },
+    "ace_darling": {
+        "name": "Ace Darling"
+    },
+    "devon_storm": {
+        "name": "Devon Storm"
+    },
+    "honky_tonk_man": {
+        "name": "Honky Tonk Man"
+    },
+    "rockabilly": {
+        "name": "Rockabilly",
+        "memo": "Billy Gunn"
     }
 }
