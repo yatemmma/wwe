@@ -22,5 +22,73 @@
     },
     "bulldog": {
         "name": "The British Bulldog"
+    },
+    "brian_walsh": {
+        "name": "Brian Walsh"
+    },
+    "christopher": {
+        "name": "Brian Christopher",
+        "ringname": "\"Too Sexy\" Brian Christopher"
+    },
+    "phineas_i": {
+        "name": "Phineas I"
+    },
+    "henry_o": {
+        "name": "Henry O"
+    },
+    "windham": {
+        "name": "Barry Windham"
+    },
+    "bradshaw": {
+        "name": "Bradshaw"
+    },
+    "mosh": {
+        "name": "Mosh"
+    },
+    "thrasher": {
+        "name": "Thrasher"
+    },
+    "hbk": {
+        "name": "Shawn Michaels"
+    },
+    "patriot": {
+        "name": "The Patriot"
+    },
+    "chyna": {
+        "name": "Chyna"
+    },
+    "hunter": {
+        "name": "Hunter Hearst Helmsley"
+    },
+    "bret_hart": {
+        "name": "Bret Hart",
+        "ringname": "Bret \"The Hitman\" Hart"
+    },
+    "faarooq": {
+        "name": "Faarooq"
+    },
+    "mustafa": {
+        "name": "Kama Mustafa"
+    },
+    "goldust": {
+        "name": "Goldust"
+    },
+    "marlena": {
+        "name": "Marlena"
+    },
+    "owen_hart": {
+        "name": "Owen Hart"
+    },
+    "stone_cold": {
+        "name": "Stone Cold Steve Austin"
+    },
+    "dude_love": {
+        "name": "Dude Love"
+    },
+    "undertaker": {
+        "name": "The Undertaker"
+    },
+    "pillman": {
+        "name": "Brian Pillman"
     }
 }

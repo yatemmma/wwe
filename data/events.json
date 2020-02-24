@@ -3,19 +3,46 @@
     "title": "1997.08.03 SummerSlam"
   },
   {
+    "title": "1997.07.28 RAW"
+  },
+  {
     "title": "1987.07.21 RAW",
     "place": "Halifax, Nova Scotia, Canada",
     "ringside": ["__king","__jr", "__vince"],
     "matches": [
       {
         "title": "Single Match",
-        "match": "__vader, w/__paul_bearer vs __shamrock",
+        "match": "__vader (w/__paul_bearer) vs __shamrock",
         "result": "__bulldogが乱入して__shamrockを強襲、リングアウトで__vaderの勝利"
       },
       {
         "title": "Single Match",
         "match": "__brian_walsh vs __christopher",
         "result": "コーナーからのレッグドロップで __christopher の勝利"
+      },
+      {
+        "title": "3 Way Tag Team Match",
+        "match": "The Godwinns (__phineas_i &__henry_o) vs The New Blackjacks (__windham &__bradshaw) vs The Headbangers (__mosh &__thrasher)",
+        "result": "バケツでこっそり殴ってThe Godwinnsの勝利"
+      },
+      {
+        "title": "Event",
+        "result": "__hbkが登場し、サマースラムのメイン戦でレフェリーを務めることを発表"
+      },
+      {
+        "title": "Single Match",
+        "match": "__hunter (w/__chyna) vs __patriot",
+        "result": "The Hart Foundationが実況席に登場。__hbkのレフェリーの件に抗議し__bret_hartが__vinceに殴りかかる。__patriotが仲裁するもThe Hart Foundationにボコられて試合中断"
+      },
+      {
+        "title": "Single Match",
+        "match": "__faarooq (w/__mustafa) vs __goldust (w/__marlena)",
+        "result": "__mustafaの妨害による反則負けで__goldustの勝利"
+      },
+      {
+        "title": "The Flag Match",
+        "match": "The Hart Foundation (__bret_hart &__bulldog &__owen_hart) vs __stone_cold &__dude_love &__undertaker",
+        "result": "__pillmanが乱入して__undertakerを妨害。__bret_hartが旗を取ってThe Hart Foundationの勝利"
       }
     ]
   }

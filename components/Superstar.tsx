@@ -13,6 +13,7 @@ const iconStyle = {
 }
 
 const Superstar = (props) => {
+  console.log(props.identifier)
   const key = props.identifier.substring(2)
   const superstar = props.superstars[key] || {}
   const image = superstar.image || 'no_image.jpg'
