@@ -1,5 +1,5 @@
 const nameStyle = {
-  'margin': '8px'
+  marginLeft: '8px'
 }
 
 const iconStyle = {
@@ -20,7 +20,7 @@ const Superstar = (props) => {
 
   return (
     <span style={nameStyle}>
-      <img src={'/'+image} style={iconStyle} />
+      <img src={'/superstar/'+image} style={iconStyle} />
       {superstar.name}
     </span>
   )

@@ -13,7 +13,7 @@ export const SuperstarIcon = (props) => {
   const superstar = props.superstars[key] || {}
   const image = superstar.image || 'no_image.jpg'
 
-  return (<img src={'/'+image} style={iconStyle} />)
+  return (<img src={'/superstar/'+image} style={iconStyle} />)
 }
 
 export default SuperstarIcon

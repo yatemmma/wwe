@@ -8,7 +8,7 @@ const Match = (props) => {
   // const matchText = props.match.match.replace(g, <Superstar identifier="x">)
   return (
     <div style={{margin:'4%'}}>
-      <h3 style={{borderBottom: '1px solid'}}>{props.number}. {props.match.title}</h3>
+      <h3 style={{borderBottom: '1px solid'}}>{props.number}. {props.match.title} {(props.match.recommend) ? "✨" : ""}</h3>
       <p>
         {matchWords.map((word) => {
           if (word.startsWith("__")) {
@@ -18,7 +18,7 @@ const Match = (props) => {
           }
         })}
       </p>
-      <p>→
+      <p className="result">→
         {resultWords.map((word) => {
           if (word.startsWith("__")) {
             return (<Superstar identifier={word} superstars={props.superstars}/>)

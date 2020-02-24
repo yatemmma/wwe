@@ -106,6 +106,12 @@
     "miguel": {
         "name": "Miguel Perez"
     },
+    "jose_estrada": {
+        "name": "Jose Estrada"
+    },
+    "jesus_castillo": {
+        "name": "Jesus Castillo"
+    },
     "commandant": {
         "name": "The Commandant"
     },
@@ -130,6 +136,15 @@
     },
     "crush": {
         "name": "Crush"
+    },
+    "chainz": {
+        "name": "Chainz"
+    },
+    "skull": {
+        "name": "Skull"
+    },
+    "8ball": {
+        "name": "8-Ball"
     },
     "ace_darling": {
         "name": "Ace Darling"
