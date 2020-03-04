@@ -12,16 +12,19 @@
         "image": "vince.png"
     },
     "shamrock": {
-        "name": "Ken Shamrock"
+        "name": "Ken Shamrock",
+        "image": "shamrock.png"
     },
     "vader": {
-        "name": "VADER"
+        "name": "VADER",
+        "image": "vader.png"
     },
     "paul_bearer": {
         "name": "Paul Bearer"
     },
     "bulldog": {
-        "name": "The British Bulldog"
+        "name": "The British Bulldog",
+        "image": "bulldog.png"
     },
     "brian_walsh": {
         "name": "Brian Walsh"
@@ -62,31 +65,37 @@
     },
     "bret_hart": {
         "name": "Bret Hart",
-        "ringname": "Bret \"The Hitman\" Hart"
+        "ringname": "Bret \"The Hitman\" Hart",
+        "image": "bret_hart.png"
     },
     "faarooq": {
         "name": "Faarooq"
     },
     "mustafa": {
-        "name": "Kama Mustafa"
+        "name": "Kama Mustafa",
+        "memo": "godfather"
     },
     "goldust": {
-        "name": "Goldust"
+        "name": "Goldust",
+        "image": "goldust.png"
     },
     "marlena": {
-        "name": "Marlena"
+        "name": "Marlena",
+        "image": "marlena.png"
     },
     "owen_hart": {
         "name": "Owen Hart"
     },
     "stone_cold": {
-        "name": "Stone Cold Steve Austin"
+        "name": "Stone Cold Steve Austin",
+        "image": "stone_cold.png"
     },
     "dude_love": {
         "name": "Dude Love"
     },
     "mankind": {
-        "name": "Mankind"
+        "name": "Mankind",
+        "image": "mankind.png"
     },
     "undertaker": {
         "name": "The Undertaker"
@@ -158,5 +167,14 @@
     "rockabilly": {
         "name": "Rockabilly",
         "memo": "Billy Gunn"
+    },
+    "slaughter" : {
+        "name": "Sgt. Slaughter"
+    },
+    "sunny" : {
+        "name": "Sunny"
+    },
+    "michinoku" : {
+        "name": "Taka Michinoku"
     }
 }
