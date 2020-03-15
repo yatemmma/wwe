@@ -63,6 +63,9 @@
     "hunter": {
         "name": "Hunter Hearst Helmsley"
     },
+    "rick_rude": {
+        "name": "Rick Rude"
+    },
     "bret_hart": {
         "name": "Bret Hart",
         "ringname": "Bret \"The Hitman\" Hart",
@@ -74,6 +77,9 @@
     "mustafa": {
         "name": "Kama Mustafa",
         "memo": "godfather"
+    },
+    "ahmed": {
+        "name": "Ahmed Johnson"
     },
     "goldust": {
         "name": "Goldust",
@@ -176,5 +182,18 @@
     },
     "michinoku" : {
         "name": "Taka Michinoku"
+    },
+    "sultan": {
+        "name": "The Sultan",
+        "memo": "rikishi"
+    },
+    "putski": {
+        "name": "Scott Putski"
+    },
+    "tony_williams": {
+        "name": "Tony Williams"
+    },
+    "rocky": {
+        "name": "Rocky Maivia"
     }
 }
